@@ -21,6 +21,7 @@ Step 4: Stop the execution.
 ## Program:
 
 Developed by : Gayathri A
+
 Register Number : 212221230028
 
 ```
@@ -60,6 +61,7 @@ namespace Pattern
 
 ## Output:
 
+![output](c%23%20ep3.png)
 
 ## Result:
 
