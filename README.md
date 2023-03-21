@@ -19,6 +19,10 @@ Step 3: Using nested for loop create a pascal's triangle.
 Step 4: Stop the execution.
 
 ## Program:
+
+Developed by : Gayathri A
+Register Number : 212221230028
+
 ```
 using System;
 namespace Pattern
@@ -55,7 +59,6 @@ namespace Pattern
 ```
 
 ## Output:
-
 
 
 ## Result:
